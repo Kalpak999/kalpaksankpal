@@ -50,7 +50,7 @@
 
 ### 🐍 Contribution Snake (Cool Animation)
 
-![snake gif](https://github.com/kalpak999/kalpak999/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Kalpak999/Kalpak999/output/github-contribution-grid-snake.svg)
 
 ---
 
